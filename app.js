@@ -17,3 +17,4 @@ function ifpland(string) {
 console.log("str1: "+ifpland(str1));
 console.log("str2: "+ifpland(str2));
 console.log("str3: "+ifpland(str3));//trtytr
+//anas assetment
